@@ -1,0 +1,80 @@
+[main]
+host = https://www.transifex.com
+lang_map = en_GB: en-GB, cs_CZ: cs-CZ, nl_NL: nl-NL, fr_FR: fr-FR, de_DE: de-DE, el_GR: el-GR, ja_JP: ja-JP, pt_BR: pt-BR, pt_PT: pt-PT, tr_TR: tr-TR, da_DK: da-DK, hu_HU: hu-HU, th_TH: th-TH, ru_RU: ru-RU, sv_SE: sv-SE, es_ES: es-ES, ca_ES: ca-ES, it_IT: it-IT, nb_NO: nb-NO, sk_SK: sk-SK, uk_UA: uk-UA, zh_TW: zh-TW, fa_IR: fa-IR, ru@petr1708: ru-PO, ar_AA: ar-AA, fi: fi-FI, sr_RS: sr-RS, es_MX: es-MX, bg_BG: bg-BG, nl_BE: nl-BE, ro_RO: ro-RO, pl_PL: pl-PL
+type = INI
+
+[pf-useractivity.admin-com_useractivity]
+file_filter = source/components/com_useractivity/admin/language/<lang>/<lang>.com_useractivity.ini
+source_file = source/components/com_useractivity/admin/language/en-GB/en-GB.com_useractivity.ini
+source_lang = en_GB
+
+[pf-useractivity.admin-com_useractivitysys]
+file_filter = source/components/com_useractivity/admin/language/<lang>/<lang>.com_useractivity.sys.ini
+source_file = source/components/com_useractivity/admin/language/en-GB/en-GB.com_useractivity.sys.ini
+source_lang = en_GB
+
+[pf-useractivity.site-com_useractivity]
+file_filter = source/components/com_useractivity/site/language/<lang>/<lang>.com_useractivity.ini
+source_file = source/components/com_useractivity/site/language/en-GB/en-GB.com_useractivity.ini
+source_lang = en_GB
+
+[pf-useractivity.site-com_useractivitysys]
+file_filter = source/components/com_useractivity/site/language/<lang>/<lang>.com_useractivity.sys.ini
+source_file = source/components/com_useractivity/site/language/en-GB/en-GB.com_useractivity.sys.ini
+source_lang = en_GB
+
+
+
+
+
+[pf-useractivity.admin-mod_useractivity_admin]
+file_filter = source/modules/mod_useractivity_admin/language/<lang>/<lang>.mod_useractivity_admin.ini
+source_file = source/modules/mod_useractivity_admin/language/en-GB/en-GB.mod_useractivity_admin.ini
+source_lang = en_GB
+
+[pf-useractivity.admin-mod_useractivity_adminsys]
+file_filter = source/modules/mod_useractivity_admin/language/<lang>/<lang>.mod_useractivity_admin.sys.ini
+source_file = source/modules/mod_useractivity_admin/language/en-GB/en-GB.mod_useractivity_admin.sys.ini
+source_lang = en_GB
+
+
+
+
+
+[pf-useractivity.site-mod_useractivity_site]
+file_filter = source/modules/mod_useractivity_site/language/<lang>/<lang>.mod_useractivity_site.ini
+source_file = source/modules/mod_useractivity_site/language/en-GB/en-GB.mod_useractivity_site.ini
+source_lang = en_GB
+
+[pf-useractivity.site-mod_useractivity_sitesys]
+file_filter = source/modules/mod_useractivity_site/language/<lang>/<lang>.mod_useractivity_site.sys.ini
+source_file = source/modules/mod_useractivity_site/language/en-GB/en-GB.mod_useractivity_site.sys.ini
+source_lang = en_GB
+
+
+
+
+
+[pf-useractivity.admin-plg_content_useractivity]
+file_filter = source/plugins/plg_content_useractivity/language/<lang>/<lang>.plg_content_useractivity.ini
+source_file = source/plugins/plg_content_useractivity/language/en-GB/en-GB.plg_content_useractivity.ini
+source_lang = en_GB
+
+[pf-useractivity.admin-plg_content_useractivitysys]
+file_filter = source/plugins/plg_content_useractivity/language/<lang>/<lang>.plg_content_useractivity.sys.ini
+source_file = source/plugins/plg_content_useractivity/language/en-GB/en-GB.plg_content_useractivity.sys.ini
+source_lang = en_GB
+
+
+
+
+
+[pf-useractivity.admin-plg_useractivity_content]
+file_filter = source/plugins/plg_useractivity_content/language/<lang>/<lang>.plg_useractivity_content.ini
+source_file = source/plugins/plg_useractivity_content/language/en-GB/en-GB.plg_useractivity_content.ini
+source_lang = en_GB
+
+[pf-useractivity.admin-plg_useractivity_contentsys]
+file_filter = source/plugins/plg_useractivity_content/language/<lang>/<lang>.plg_useractivity_content.sys.ini
+source_file = source/plugins/plg_useractivity_content/language/en-GB/en-GB.plg_useractivity_content.sys.ini
+source_lang = en_GB
