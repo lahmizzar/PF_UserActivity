@@ -68,4 +68,4 @@ if [[ "$1" == "source" ]]
 fi
 
 # If source is not pushed, then use the appropriate language
-$txClient push -l $1
+$txClient push -t $1

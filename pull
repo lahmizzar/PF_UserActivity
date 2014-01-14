@@ -30,6 +30,6 @@
 #
 # This script is invoked by the create script
 
-txClient="../transifex-client/tx"
+txClient="../../transifex-client/tx"
 
 $txClient pull -l de_DE	# 100%
